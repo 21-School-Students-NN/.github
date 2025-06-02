@@ -1,4 +1,4 @@
-# Welcome to 21 School Students NN ![21 school logo](misc/heart.gif)
+# Welcome to 21 School Students NN <span><img style="height: 1em;" src="../misc/heart.gif"></span>
 
 Welcome to the official GitHub organization of **21 School Students NN** — a team of enthusiastic learners from the Russian version of the globally known **42 School** program.
 
